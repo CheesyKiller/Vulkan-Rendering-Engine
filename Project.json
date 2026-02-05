@@ -8,20 +8,22 @@
     "JA": "本プロジェクトは、Vulkan を用いたレンダリングエンジンの試作です。本プロジェクトは、符号付き距離関数（Signed Distance Fields）および Entity Component System（ECS）に本格的に取り組む以前に作成したものです。"
   },
   "DATE_OF_LAST_EDIT": {
-    "DAY": 1,
-    "MONTH": 18,
+    "DAY": 18,
+    "MONTH": 1,
     "YEAR": 2025
   },
-  "PROJECT_LANGUAGES": [{
-    "EN": "C++",
-    "JA": "C++"
-  },
-  {
-    "EN": "C",
-    "JA": "C"
-  },
-  {
-    "EN": "GLSL",
-    "JA": "GLSL"
-  }]
+  "PROJECT_LANGUAGES": [
+    {
+      "EN": "C++",
+      "JA": "C++"
+    },
+    {
+      "EN": "C",
+      "JA": "C"
+    },
+    {
+      "EN": "GLSL",
+      "JA": "GLSL"
+    }
+  ]
 }
