@@ -14,14 +14,14 @@
   },
   "PROJECT_LANGUAGES": [{
     "EN": "C++",
-    "JA": "C++",
+    "JA": "C++"
   },
   {
     "EN": "C",
-    "JA": "C",
+    "JA": "C"
   },
   {
     "EN": "GLSL",
-    "JA": "GLSL",
+    "JA": "GLSL"
   }]
 }
