@@ -1,0 +1,27 @@
+{
+  "NAME": {
+    "EN": "Vulkan Rendering Engine",
+    "JA": "Vulkan レンダリングエンジン"
+  },
+  "DESCRIPTION": {
+    "EN": "This was an attempt at making a rendering engine in Vulkan. This project was made prior to my exploration into Signed Distance Fields and Entity Component Systems.",
+    "JA": "本プロジェクトは、Vulkan を用いたレンダリングエンジンの試作です。本プロジェクトは、符号付き距離関数（Signed Distance Fields）および Entity Component System（ECS）に本格的に取り組む以前に作成したものです。"
+  },
+  "DATE_OF_LAST_EDIT": {
+    "DAY": 1,
+    "MONTH": 18,
+    "YEAR": 2025
+  },
+  "PROJECT_LANGUAGES": [{
+    "EN": "C++",
+    "JA": "C++",
+  },
+  {
+    "EN": "C",
+    "JA": "C",
+  },
+  {
+    "EN": "GLSL",
+    "JA": "GLSL",
+  }]
+}
